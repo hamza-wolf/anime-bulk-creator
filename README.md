@@ -130,3 +130,12 @@ API Endpoint: Enter the endpoint (e.g., to-be-hero-x-19591). Check your API docs
 Episode Type: Select Sub or Dub (affects player URLs and hostnames).
 
 
+
+Credits
+
+Anime API: https://github.com/itzzzme/anime-api by itzzzme
+AnimeStream Theme: https://themesia.com/animestream-wordpress-theme/ by Themesia
+Plugin by: hami
+
+Thanks
+Special thanks to itzzzme for the Anime API and Themesia for the AnimeStream Theme.
